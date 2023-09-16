@@ -1,17 +1,7 @@
-# Linux.rectangle.minimize
-Iso.linux.protected mode animation of a minimaze a rectangle
+# python.raw.color.bitmap.change
+
+change the color of raw bitmap to other color exemple: python raws.py bitmap.raw 0 1
 
 
 
-
-
-get binary image on 
-
-
-https://mirrors.edge.kernel.org/pub/linux/utils/boot/syslinux/Testing/3.30/
-
-uses the files in dir bios
-bios/core/*.bin
-bios/core/*.bbs
-bios/com32/*.c32
 
